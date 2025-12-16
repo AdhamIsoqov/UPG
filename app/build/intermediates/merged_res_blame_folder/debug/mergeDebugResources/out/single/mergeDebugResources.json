@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.upg.app-debug-37:/layout_activity_about_developer.xml.flat",
+        "source": "com.example.upg.app-main-39:/layout/activity_about_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-hdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_activity_shop.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\activity_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_activity_orders.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\activity_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\drawable_profile_placeholder.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\drawable\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-mdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_activity_order_details.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\activity_order_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_item_order.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\item_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_dialog_checkout.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\dialog_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_carousel_item.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\carousel_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\layout_activity_about_developer.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\layout\\activity_about_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-debug-37:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Adham Isoqov\\.gradle\\daemon\\8.13\\com.example.upg.app-main-39:\\drawable\\ic_launcher_foreground.xml"
+    }
+]

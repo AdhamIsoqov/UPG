@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_blue">#007ACC</color>
+    <color name="accent_green">#00A552</color>
+    <color name="alert_red">#FF3B30</color>
+    <color name="bg_primary">#F2F2F2</color>
+    <color name="black">#FF000000</color>
+    <color name="key_dark">#333333</color>
+    <color name="key_light">#C4C4C4</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">UPG</string>
+    <style name="Theme.UPG" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorPrimaryVariant">#0D47A1</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="colorSecondaryVariant">#018786</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        
+        <item name="android:statusBarColor">#1976D2</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="colorSurface">#FFFFFF</item>
+
+        
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+    </style>
+</resources>
